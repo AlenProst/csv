@@ -1,0 +1,109 @@
+﻿id,tense,answer,el1,el2,el3,el4,el5,el6,translation
+1,Präsens-VP ,Ich werde untersucht,Ich,werde,untersucht,,,,I am being examined
+2,Präsens-VP ,Du wirst untersucht,Du,wirst,untersucht,,,,You are being examined
+3,Präsens-VP ,Er wird untersucht,Er,wird,untersucht,,,,He is being examined
+4,Präsens-VP ,Sie wird untersucht,Sie,wird,untersucht,,,,She is being examined
+5,Präsens-VP ,Es wird untersucht,Es,wird,untersucht,,,,It is under investigation
+6,Präsens-VP ,Wir werden untersucht,Wir,werden,untersucht,,,,We're being investigated
+7,Präsens-VP ,Ihr werdet untersucht,Ihr,werdet,untersucht,,,,You are being examined
+8,Präsens-VP ,Sie werden untersucht,Sie,werden,untersucht,,,,You will be examined
+9,Präsens-VP ,Sie werden untersucht,Sie,werden,untersucht,,,,You will be examined
+10,Präteritum-VP,Ich wurde gehört,Ich,wurde,gehört,,,,I was heard
+11,Präteritum-VP,Du wurdest gehört,Du,wurdest,gehört,,,,you were heard
+12,Präteritum-VP,Er wurde gehört,Er,wurde,gehört,,,,He was heard
+13,Präteritum-VP,Sie wurde gehört,Sie,wurde,gehört,,,,She was heard
+14,Präteritum-VP,Es wurde gehört,Es,wurde,gehört,,,,It has been heard
+15,Präteritum-VP,Wir wurden gehört,Wir,wurden,gehört,,,,We were heard
+16,Präteritum-VP,Ihr wurdet gehört,Ihr,wurdet,gehört,,,,you have been heard
+17,Präteritum-VP,Sie wurden gehört,Sie,wurden,gehört,,,,You have been heard
+18,Präteritum-VP,Sie wurden gehört ,Sie,wurden,gehört,,,,You have been heard
+19,Perfekt-VP,Ich bin untersucht worden,Ich,bin,untersucht,worden,,,I have been examined
+20,Perfekt-VP,Du bist untersucht worden,Du,bist,untersucht,worden,,,You have been examined
+21,Perfekt-VP,Er ist untersucht worden,Er,ist,untersucht,worden,,,He has been examined
+22,Perfekt-VP,Sie ist untersucht worden ,Sie,ist,untersucht,worden,,,She has been examined
+23,Perfekt-VP,Es ist untersucht worden,Es,ist,untersucht,worden,,,It has been examined
+24,Perfekt-VP,Wir sind untersucht worden,Wir,sind,untersucht,worden,,,We have been examined
+25,Perfekt-VP,Ihr seid untersucht worden,Ihr,seid,untersucht,worden,,,You have been examined
+26,Perfekt-VP,Sie sind untersucht worden,Sie,sind,untersucht,worden,,,You have been examined
+27,Perfekt-VP,Sie sind untersucht worden ,Sie,sind,untersucht,worden,,,You have been examined
+28,Perfekt-VP,Ich werde untersucht werden,Ich,werde,untersucht,werden,,,I will be examined
+29,Futur -VP,Du wirst untersucht werden,Du,wirst,untersucht,werden,,,You will be examined
+30,Futur -VP,Er wird untersucht werden,Er,wird,untersucht,werden,,,He will be examined
+31,Futur -VP,Sie wird untersucht werden,Sie,wird,untersucht,werden,,,She will be examined
+32,Futur -VP,Es wird untersucht werden,Es,wird,untersucht,werden,,,It will be investigated
+33,Futur -VP,Wir werden untersucht werden,Wir,werden,untersucht,werden,,,How will be investigated
+34,Futur -VP,Ihr werdet untersucht werden,Ihr,werdet,untersucht,werden,,,You will be examined
+35,Futur -VP,Sie werden untersucht werden,Sie,werden,untersucht,werden,,,You will be examined
+36,Futur -VP,Sie werden untersucht werden,Sie,werden,untersucht,werden,,,You will be examined
+37,Präsens-Passive-müssen,Ich muss geküsst werden ,Ich,muss,geküsst,werden,,,I need to be kissed
+38,Präsens-Passive-müssen,Du musst geküsst werden,Du,musst,geküsst,werden,,,you need to be kissed
+39,Präsens-Passive-müssen,Er muss geküsst werden,Er,muss,geküsst,werden,,,He needs to be kissed
+40,Präsens-Passive-müssen,Sie muss geküsst werden,Sie,muss,geküsst,werden,,,She needs to be kissed
+41,Präsens-Passive-müssen,Es muss geküsst werden,Es,muss,geküsst,werden,,,It must be kissed
+42,Präsens-Passive-müssen,Wir müssen geküsst werden,Wir,müssen,geküsst,werden,,,We need to be kissed
+43,Präsens-Passive-müssen,Ihr müsst geküsst werden,Ihr,müsst,geküsst,werden,,,you need to be kissed
+44,Präsens-Passive-müssen,Sie müssen geküsst werden,Sie,müssen,geküsst,werden,,,They need to be kissed
+45,Präsens-Passive-müssen,Sie müssen geküsst werden,Sie,müssen,geküsst,werden,,,They need to be kissed
+46,Präsens-Passive-müssen,Ich kann geküsst werden ,Ich,kann,geküsst,werden,,,I can be kissed
+47,Präsens-Passive-müssen,Du kannst geküsst werden,Du,kannst,geküsst,werden,,,you can be kissed
+48,Präsens-Passive-müssen,Er kann geküsst werden,Er,kann,geküsst,werden,,,He can be kissed
+49,Präsens-Passive-müssen,Sie kann geküsst werden,Sie,kann,geküsst,werden,,,She can be kissed
+50,Präsens-Passive-müssen,Es kann geküsst werden,Es,kann,geküsst,werden,,,It can be kissed
+51,Präsens-Passive-müssen,Wir können geküsst werden,Wir,können,geküsst,werden,,,We can be kissed
+52,Präsens-Passive-müssen,Ihr könnt geküsst werden,Ihr,könnt,geküsst,werden,,,you can be kissed
+53,Präsens-Passive-müssen,Sie können geküsst werden,Sie,können,geküsst,werden,,,They can be kissed
+54,Präsens-Passive-müssen,Sie können geküsst werden,Sie,können,geküsst,werden,,,They can be kissed
+55,Präsens-Passive-wollen-VP,Ich will geküsst werden ,Ich,will,geküsst,werden,,,i want to be kissed
+56,Präsens-Passive-wollen-VP,Du willst geküsst werden,Du,willst,geküsst,werden,,,you want to be kissed
+57,Präsens-Passive-wollen-VP,Er will geküsst werden,Er,will,geküsst,werden,,,He wants to be kissed
+58,Präsens-Passive-wollen-VP,Sie will geküsst werden,Sie,will,geküsst,werden,,,She wants to be kissed
+59,Präsens-Passive-wollen-VP,Es will geküsst werden,Es,will,geküsst,werden,,,It wants to be kissed
+60,Präsens-Passive-wollen-VP,Wir wollen geküsst werden,Wir,wollen,geküsst,werden,,,We want to be kissed
+61,Präsens-Passive-wollen-VP,Ihr wollt geküsst werden,Ihr,wollt,geküsst,werden,,,you want to be kissed
+62,Präsens-Passive-wollen-VP,Sie wollen geküsst werden,Sie,wollen,geküsst,werden,,,They want to be kissed
+63,Präsens-Passive-wollen-VP,Sie wollen geküsst werden,Sie,wollen,geküsst,werden,,,They want to be kissed
+64,Präsens-Passive-VP-sollen,Ich soll geküsst werden ,Ich,soll,geküsst,werden,,,I should be kissed
+65,Präsens-Passive-VP-sollen,Du sollst geküsst werden,Du,sollst,geküsst,werden,,,you should be kissed
+66,Präsens-Passive-VP-sollen,Er soll geküsst werden,Er,soll,geküsst,werden,,,He should be kissed
+67,Präsens-Passive-VP-sollen,Sie soll geküsst werden,Sie,soll,geküsst,werden,,,She should be kissed
+68,Präsens-Passive-VP-sollen,Es soll geküsst werden,Es,soll,geküsst,werden,,,It's meant to be kissed
+69,Präsens-Passive-VP-sollen,Wir sollen geküsst werden,Wir,sollen,geküsst,werden,,,We should be kissed
+70,Präsens-Passive-VP-sollen,Ihr sollt geküsst werden,Ihr,sollt,geküsst,werden,,,You should be kissed
+71,Präsens-Passive-VP-sollen,Sie sollen geküsst werden,Sie,sollen,geküsst,werden,,,They should be kissed
+72,Präsens-Passive-VP-sollen,Sie sollen geküsst werden,Sie,sollen,geküsst,werden,,,They should be kissed
+73,Präsens-Passive-VP-dürfen ,Ich darf geküsst werden ,Ich,darf,geküsst,werden,,,I can be kissed
+74,Präsens-Passive-VP-dürfen ,Du darfst geküsst werden,Du,darfst,geküsst,werden,,,You can be kissed
+75,Präsens-Passive-VP-dürfen ,Er darf geküsst werden,Er,darf,geküsst,werden,,,He can be kissed
+76,Präsens-Passive-VP-dürfen ,Sie darf geküsst werden,Sie,darf,geküsst,werden,,,She can be kissed
+77,Präsens-Passive-VP-dürfen ,Es darf geküsst werden,Es,darf,geküsst,werden,,,It can be kissed
+78,Präsens-Passive-VP-dürfen ,Wir dürfen geküsst werden,Wir,dürfen,geküsst,werden,,,We can be kissed
+79,Präsens-Passive-VP-dürfen ,Ihr dürft geküsst werden,Ihr,dürft,geküsst,werden,,,You may be kissed
+80,Präsens-Passive-VP-dürfen ,Sie dürfen geküsst werden,Sie,dürfen,geküsst,werden,,,You can be kissed
+81,Präsens-Passive-VP-dürfen ,Sie dürfen geküsst werden,Sie,dürfen,geküsst,werden,,,You can be kissed
+82,Präsens-Passive-VP-dürfen ,Ich mag geküsst werden ,Ich,mag,geküsst,werden,,,i like to be kissed
+84,Präsens-Passive-VP-mögen ,Du magst geküsst werden,Du,magst,geküsst,werden,,,you like to be kissed
+85,Präsens-Passive-VP-mögen ,Er mag geküsst werden,Er,mag,geküsst,werden,,,He likes to be kissed
+86,Präsens-Passive-VP-mögen ,Sie mag geküsst werden,Sie,mag,geküsst,werden,,,She likes to be kissed
+87,Präsens-Passive-VP-mögen ,Es mag geküsst werden,Es,mag,geküsst,werden,,,It likes to be kissed
+88,Präsens-Passive-VP-mögen ,Wir mögen geküsst werden,Wir,mögen,geküsst,werden,,,We like to be kissed
+89,Präsens-Passive-VP-mögen ,Ihr mögt geküsst werden,Ihr,mögt,geküsst,werden,,,You like to be kissed
+90,Präsens-Passive-VP-mögen ,Sie mögen geküsst werden,Sie,mögen,geküsst,werden,,,They like to be kissed
+91,Präsens-Passive-VP-mögen ,Sie mögen geküsst werden,Sie,mögen,geküsst,werden,,,They like to be kissed
+92,Präsens-Reflexivpronomen,Ich freue mich ,Ich,freue,mich,,,,I am happy 
+93,Präsens-Reflexivpronomen,Du freust dich,Du,freust,dich,,,,you are happy
+94,Präsens-Reflexivpronomen,Er freut sich,Er,freut,sich,,,,He is pleased
+95,Präsens-Reflexivpronomen,Sie freut sich ,Sie,freut,sich,,,,she is happy
+96,Präsens-Reflexivpronomen,Es freut sich,Es,freut,sich,,,,It is happy
+97,Präsens-Reflexivpronomen,Wir freuen uns,Wir,freuen,uns,,,,We are happy
+98,Präsens-Reflexivpronomen,Euch freut euch,Ihr,freut,euch,,,,you rejoice
+99,Präsens-Reflexivpronomen,Sie freuen sich,Sie,freuen,sich,,,,they are happy
+100,Präsens-Reflexivpronomen,Sie freuen sich,Sie,freuen,sich,,,,they are happy
+101,Perfekt-Reflexivpronomen,Ich habe mich gefreut,Ich,gefreut,mich,gefreut,,,I was happy
+102,Perfekt-Reflexivpronomen,Du hast dich gefreut,Du,gefreut,dich,gefreut,,,you were happy
+103,Perfekt-Reflexivpronomen,Er hat sich gefreut,Er,gefreut,sich,gefreut,,,He was happy
+104,Perfekt-Reflexivpronomen,Sie hat sich gefreut,Sie,gefreut,sich,gefreut,,,she was happy
+105,Perfekt-Reflexivpronomen,Es hat sich gefreut,Es,gefreut,sich,gefreut,,,It was happy
+106,Perfekt-Reflexivpronomen,Wir haben uns gefreut,Wir,gefreut,uns,gefreut,,,We were happy
+107,Perfekt-Reflexivpronomen,Ihr habt euch gefreut,Ihr,gefreut,euch,gefreut,,,you were happy
+108,Perfekt-Reflexivpronomen,Sie haben sich gefreut,Sie,gefreut,sich,gefreut,,,they were happy
+109,Perfekt-Reflexivpronomen,Sie haben sich gefreut,Sie,gefreut,sich,gefreut,,,they were happy
