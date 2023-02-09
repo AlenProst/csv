@@ -1,4 +1,4 @@
-﻿id,tense,answer,el1,el2,el3,el4,el5,el6,translation
+id,tense,answer,el1,el2,el3,el4,el5,el6,translation
 1,Präsens-VP ,Ich werde untersucht,Ich,werde,untersucht,,,,I am being examined
 2,Präsens-VP ,Du wirst untersucht,Du,wirst,untersucht,,,,You are being examined
 3,Präsens-VP ,Er wird untersucht,Er,wird,untersucht,,,,He is being examined
@@ -98,12 +98,13 @@
 98,Präsens-Reflexivpronomen,Euch freut euch,Ihr,freut,euch,,,,you rejoice
 99,Präsens-Reflexivpronomen,Sie freuen sich,Sie,freuen,sich,,,,they are happy
 100,Präsens-Reflexivpronomen,Sie freuen sich,Sie,freuen,sich,,,,they are happy
-101,Perfekt-Reflexivpronomen,Ich habe mich gefreut,Ich,gefreut,mich,gefreut,,,I was happy
-102,Perfekt-Reflexivpronomen,Du hast dich gefreut,Du,gefreut,dich,gefreut,,,you were happy
-103,Perfekt-Reflexivpronomen,Er hat sich gefreut,Er,gefreut,sich,gefreut,,,He was happy
-104,Perfekt-Reflexivpronomen,Sie hat sich gefreut,Sie,gefreut,sich,gefreut,,,she was happy
-105,Perfekt-Reflexivpronomen,Es hat sich gefreut,Es,gefreut,sich,gefreut,,,It was happy
-106,Perfekt-Reflexivpronomen,Wir haben uns gefreut,Wir,gefreut,uns,gefreut,,,We were happy
-107,Perfekt-Reflexivpronomen,Ihr habt euch gefreut,Ihr,gefreut,euch,gefreut,,,you were happy
-108,Perfekt-Reflexivpronomen,Sie haben sich gefreut,Sie,gefreut,sich,gefreut,,,they were happy
-109,Perfekt-Reflexivpronomen,Sie haben sich gefreut,Sie,gefreut,sich,gefreut,,,they were happy
+101,Perfekt-Reflexivpronomen,Ich habe mich gefreut,Ich,habe,mich,gefreut,,,I was happy
+102,Perfekt-Reflexivpronomen,Du hast dich gefreut,Du,hast,dich,gefreut,,,you were happy
+103,Perfekt-Reflexivpronomen,Er hat sich gefreut,Er,hat,sich,gefreut,,,He was happy
+104,Perfekt-Reflexivpronomen,Sie hat sich gefreut,Sie,hat,sich,gefreut,,,she was happy
+105,Perfekt-Reflexivpronomen,Es hat sich gefreut,Es,hat,sich,gefreut,,,It was happy
+106,Perfekt-Reflexivpronomen,Wir haben uns gefreut,Wir,haben,uns,gefreut,,,We were happy
+107,Perfekt-Reflexivpronomen,Ihr habt euch gefreut,Ihr,habt,euch,gefreut,,,you were happy
+108,Perfekt-Reflexivpronomen,Sie haben sich gefreut,Sie,haben,sich,gefreut,,,they were happy
+109,Perfekt-Reflexivpronomen,Sie haben sich gefreut,Sie,haben,sich,gefreut,,,they were happy
+
