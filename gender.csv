@@ -5,8 +5,7 @@ id,article_m,article_f,article_n,correct_form,noun_no_article,remark
 4,der,die,das,das Zentrum,Zentrum,words that end in -UM are always NEUTER
 5,der,die,das,das Gesicht,Gesicht,words that end in -ICHT are always NEUTER
 6,der,die,das,das Ergibnis,Ergibnis,words that end in -NIS are always NEUTER
-7,der,die,das,,,words that end in -EAU are always NEUTER
-8,der,die,das,,,words that end in -ING are always NEUTER
+7,der,die,das,das Niveau,Niveau,words that end in -EAU are always NEUTER
 9,der,die,das,das Photo,Photo,words that end in -O are always NEUTER
 10,der,die,das,das Essen,Essen,NOUNS that come from Verbs
 11,der,die,das,das Ritz,Ritz,"Nouns that name hotels,cafés"
