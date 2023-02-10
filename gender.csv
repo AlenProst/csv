@@ -1,191 +1,191 @@
-article_m,article_f,article_n,correct_form,noun_no_article,remark
-der,die,das,das Thema,Thema,words that end in -MA are always NEUTER
-der,die,das,das Häuschen,Häuschen,words that end in -CHEN are always NEUTER
-der,die,das,das Dokument,Dokument,words that end in -MENT are always NEUTER
-der,die,das,das Zentrum,Zentrum,words that end in -UM are always NEUTER
-der,die,das,das Gesicht,Gesicht,words that end in -ICHT are always NEUTER
-der,die,das,das Ergibnis,Ergibnis,words that end in -NIS are always NEUTER
-der,die,das,,,words that end in -EAU are always NEUTER
-der,die,das,,,words that end in -ING are always NEUTER
-der,die,das,das Photo,Photo,words that end in -O are always NEUTER
-der,die,das,das Essen,Essen,NOUNS that come from Verbs
-der,die,das,das Ritz,Ritz,"Nouns that name hotels,cafés"
-der,die,das,das Blau,Blau,Nouns that name colors
-der,die,das,das A,A,Nouns that name letters
-der,die,das,das Montag,Montag,Days of the weeks are always MASCULINE
-der,die,das,das Juli,Juli,MONTHS are always MASCULINE
-der,die,das,das Sommer,Sommer,SEASONS are always MASCULINE
-der,die,das,der Euro,Euro,CURRENCY is always MASCULINE
-der,die,das,der Wein,Wein,DRIKNS are always MASCULINE
-der,die,das,der Mercedes,Mercedes,BRANDS OF CARS are always MASCULINE
-der,die,das,der Süd,Süd,DIRECTIONS are always MASCULINE
-der,die,das,der Rentner,Rentner,words in -NER are always MASCULINE
-der,die,das,der Siedler,Siedler,words in -LER are always MASCULINE
-der,die,das,der Kommunismus,Kommunismus,words in -ISMUS are always MASCULINE
-der,die,das,der Motor,Motor,words in -OR are always MASCULINE
-der,die,das,der Honig,Honig,words in -IG are always MASCULINE
-der,die,das,der Teppich,Teppich,words in -ICH are always MASCULINE
-der,die,das,der Zwilling,Zwilling,words in -ING are always MASCULINE
-der,die,das,der Kapitalist,Kapitalist,words in -IST are always MASCULINE
-der,die,das,der Informatiker,Informatiker,words in -IKER are always MASCULINE
-der,die,das,der Diamant,Diamant,words in -ANT are always MASCULINE
-der,die,das,der Friseur,Friseur,words in -EUR are always MASCULINE
-der,die,das,der Koffer,Koffer,words in -ER are always MASCULINE
-der,die,das,die Freiheit,Freiheit,heit
-der,die,das,die Schnelligkeit,Schnelligkeit,keit
-der,die,das,die Universität,Universität,tät
-der,die,das,die Zeitung,Zeitung,ung
-der,die,das,die Freundschaft,Freundschaft,schaft 
-der,die,das,die Drogerie,Drogerie,ie
-der,die,das,die Grammatik, Grammatik,ik 
-der,die,das,die Kultur,Kultur,ur
-der,die,das,das Wrack,Wrack,
-der,die,das,das Benehmen,Benehmen,Word ends in EN and NEUTER
-der,die,das,das Maß,Maß,
-der,die,das,das Mehl,Mehl,
-der,die,das,das Hirn,Hirn,
-der,die,das,das Fach,Fach,
-der,die,das,das Dach,Dach,
-der,die,das,das Gebüsch,Gebüsch,
-der,die,das,das Gesetz,Gesetz,
-der,die,das,das Verfahren,Verfahren,
-der,die,das,das Geschenk,Geschenk,
-der,die,das,das Grab,Grab,
-der,die,das,das Öl,Öl,
-der,die,das,das Lokal,Lokal,
-der,die,das,das Urteil,Urteil,
-der,die,das,das Gewehr,Gewehr,
-der,die,das,das Gleis,Gleis,
-der,die,das,das Ziel,Ziel,
-der,die,das,das Viertel,Viertel,
-der,die,das,das Geschick,Geschick,
-der,die,das,das Kinn,Kinn,
-der,die,das,das Eis,Eis,
-der,die,das,das Gelenk,Gelenk,
-der,die,das,das Loch,Loch,
-der,die,das,das Rad,Rad,
-der,die,das,das Versteck,Versteck,
-der,die,das,das Siegel,Siegel,
-der,die,das,das Feld,Feld,
-der,die,das,das Rätsel,Rätsel,
-der,die,das,das Schicksal,Schicksal,
-der,die,das,das Gegenteil,Gegenteil,
-der,die,das,das Getränk,Getränk,
-der,die,das,das Beil,Beil,
-der,die,das,das Holz,Holz,
-der,die,das,das Stück,Stück,
-der,die,das,das Gefühl,Gefühl,
-der,die,das,das Haus,Haus,
-der,die,das,das Geld,Geld,
-der,die,das,das Bild,Bild,
-der,die,das,das Schild,Schild,
-der,die,das,das Land,Land,
-der,die,das,das Spiel,Spiel,
-der,die,das,das Werk,Werk,
-der,die,das,das Mittel,Mittel,
-der,die,das,das Tuch,Tuch,
-der,die,das,das Glied,Glied,
-der,die,das,das Leid,Leid,
-der,die,das,das Jahr,Jahr,
-der,die,das,das Reich ,Reich ,
-der,die,das,das Zeug,Zeug,
-der,die,das,das Mal,Mal,
-der,die,das,das Buch,Buch,
-der,die,das,das Handy,Handy,
-der,die,das,das Telefon,Telefon,
-der,die,das,das Haar,Haar,
-der,die,das,das Paar,Paar,
-der,die,das,das Laub,Laub,
-der,die,das,das Ohr,Ohr,
-der,die,das,das Ding,Ding,
-der,die,das,das Wohl,Wohl,
-der,die,das,das Pech,Pech,
-der,die,das,das Hemd,Hemd,
-der,die,das,das Kreuz,Kreuz,
-der,die,das,das Protokoll,Protokoll,
-der,die,das,das Geräusch,Geräusch,
-der,die,das,das Gespräch,Gespräch,
-der,die,das,das Glas,Glas,
-der,die,das,das Gepäck,Gepäck,
-der,die,das,das Detail,Detail,
-der,die,das,das Glück,Glück,
-der,die,das,das Fleisch,Fleisch,
-der,die,das,das Indiz,Indiz,
-der,die,das,das Bad,Bad,
-der,die,das,das Kleid,Kleid,
-der,die,das,das Lied,Lied,
-der,die,das,das Gewühl,Gewühl,
-der,die,das,das Hotel,Hotel,
-der,die,das,das Herz,Herz,
-der,die,das,das Netz,Netz,
-der,die,das,das Seil,Seil,
-der,die,das,das Salz,Salz,
-der,die,das,das Ei,Ei,
-der,die,das,das Formular ,Formular ,
-der,die,das,das Lager ,Lager ,
-der,die,das,das Vokabular ,Vokabular ,
-der,die,das,das Sofa,Sofa,
-der,die,das,das Programm,Programm,
-der,die,das,das Chaos ,Chaos ,
-der,die,das,das Gebirge,Gebirge,Word ends in E and NEUTER
-der,die,das,das Café,Café,Word ends in E and NEUTER
-der,die,das,das Portmonee,Portmonee,Word ends in E and NEUTER
-der,die,das,das Puzzle,Puzzle,Word ends in E and NEUTER
-der,die,das,das Ende,Ende,Word ends in E and NEUTER
-der,die,das,das Böse,Böse,Word ends in E and NEUTER
-der,die,das,das Auge,Auge,Word ends in E and NEUTER
-der,die,das,das Äußere,Äußere,Word ends in E and NEUTER
-der,die,das,das Brot,Brot,Word ends in T and NEUTER
-der,die,das,das Rezept,Rezept,Word ends in T and NEUTER
-der,die,das,das Internet,Internet,Word ends in T and NEUTER
-der,die,das,das Produkt,Produkt,Word ends in T and NEUTER
-der,die,das,das Licht,Licht,Word ends in T and NEUTER
-der,die,das,das Obst,Obst,Word ends in T and NEUTER
-der,die,das,das Ticket,Ticket,Word ends in T and NEUTER
-der,die,das,das Nest,Nest,Word ends in T and NEUTER
-der,die,das,das Kraut,Kraut,Word ends in T and NEUTER
-der,die,das,das Bett,Bett,Word ends in T and NEUTER
-der,die,das,das Gift,Gift,Word ends in T and NEUTER
-der,die,das,das Wort,Wort,Word ends in T and NEUTER
-der,die,das,das Gewicht,Gewicht,Word ends in T and NEUTER
-der,die,das,das Gebot,Gebot,Word ends in T and NEUTER
-der,die,das,das Gehalt,Gehalt,Word ends in T and NEUTER
-der,die,das,das Gedicht,Gedicht,Word ends in T and NEUTER
-der,die,das,das Delikt,Delikt,Word ends in T and NEUTER
-der,die,das,das Gebiet,Gebiet,Word ends in T and NEUTER
-der,die,das,das Jahrhundert,Jahrhundert,Word ends in T and NEUTER
-der,die,das,das Gerücht,Gerücht,Word ends in T and NEUTER
-der,die,das,das Gespenst,Gespenst,Word ends in T and NEUTER
-der,die,das,das Geschlecht,Geschlecht,Word ends in T and NEUTER
-der,die,das,das Gebet,Gebet,Word ends in T and NEUTER
-der,die,das,das Blut,Blut,Word ends in T and NEUTER
-der,die,das,das Gesicht,Gesicht,Word ends in T and NEUTER
-der,die,das,das Gericht,Gericht,Word ends in T and NEUTER
-der,die,das,das Heft,Heft,Word ends in T and NEUTER
-der,die,das,das Zelt,Zelt,Word ends in T and NEUTER
-der,die,das,das Geschäft,Geschäft,Word ends in T and NEUTER
-der,die,das,das Blatt,Blatt,Word ends in T and NEUTER
-der,die,das,das Monster,Monster,Word ends in ER and NEUTER
-der,die,das,das Fieber,Fieber,Word ends in ER and NEUTER
-der,die,das,das Theater,Theater,Word ends in ER and NEUTER
-der,die,das,das Wasser,Wasser,Word ends in ER and NEUTER
-der,die,das,das Meer,Meer,Word ends in ER and NEUTER
-der,die,das,das Leder,Leder,Word ends in ER and NEUTER
-der,die,das,das Opfer ,Opfer ,Word ends in ER and NEUTER
-der,die,das,das Wunder,Wunder,Word ends in ER and NEUTER
-der,die,das,das Wetter,Wetter,Word ends in ER and NEUTER
-der,die,das,das Feuer,Feuer,Word ends in ER and NEUTER
-der,die,das,das Zimmer,Zimmer,Word ends in ER and NEUTER
-der,die,das,das Papier,Papier,Word ends in ER and NEUTER
-der,die,das,das Muster,Muster,Word ends in ER and NEUTER
-der,die,das,das Fenster,Fenster,Word ends in ER and NEUTER
-der,die,das,das Gewitter,Gewitter,Word ends in ER and NEUTER
-der,die,das,das Ufer,Ufer,Word ends in ER and NEUTER
-der,die,das,das Steuer,Steuer,Word ends in ER and NEUTER
-der,die,das,das Messer,Messer,Word ends in ER and NEUTER
-der,die,das,das Abenteuer ,Abenteuer ,Word ends in ER and NEUTER
-der,die,das,das Becken,Becken,Word ends in EN and NEUTER
-der,die,das,das Eisen,Eisen,Word ends in EN and NEUTER
-der,die,das,das Zeichen,Zeichen,Word ends in EN and NEUTER
-der,die,das,das Unternehmen,Unternehmen,Word ends in EN and NEUTER
-der,die,das,das Gutachten,Gutachten,Word ends in EN and NEUTER
+id,article_m,article_f,article_n,correct_form,noun_no_article,remark
+1,der,die,das,das Thema,Thema,words that end in -MA are always NEUTER
+2,der,die,das,das Häuschen,Häuschen,words that end in -CHEN are always NEUTER
+3,der,die,das,das Dokument,Dokument,words that end in -MENT are always NEUTER
+4,der,die,das,das Zentrum,Zentrum,words that end in -UM are always NEUTER
+5,der,die,das,das Gesicht,Gesicht,words that end in -ICHT are always NEUTER
+6,der,die,das,das Ergibnis,Ergibnis,words that end in -NIS are always NEUTER
+7,der,die,das,,,words that end in -EAU are always NEUTER
+8,der,die,das,,,words that end in -ING are always NEUTER
+9,der,die,das,das Photo,Photo,words that end in -O are always NEUTER
+10,der,die,das,das Essen,Essen,NOUNS that come from Verbs
+11,der,die,das,das Ritz,Ritz,"Nouns that name hotels,cafés"
+12,der,die,das,das Blau,Blau,Nouns that name colors
+13,der,die,das,das A,A,Nouns that name letters
+14,der,die,das,das Montag,Montag,Days of the weeks are always MASCULINE
+15,der,die,das,das Juli,Juli,MONTHS are always MASCULINE
+16,der,die,das,das Sommer,Sommer,SEASONS are always MASCULINE
+17,der,die,das,der Euro,Euro,CURRENCY is always MASCULINE
+18,der,die,das,der Wein,Wein,DRIKNS are always MASCULINE
+19,der,die,das,der Mercedes,Mercedes,BRANDS OF CARS are always MASCULINE
+20,der,die,das,der Süd,Süd,DIRECTIONS are always MASCULINE
+21,der,die,das,der Rentner,Rentner,words in -NER are always MASCULINE
+22,der,die,das,der Siedler,Siedler,words in -LER are always MASCULINE
+23,der,die,das,der Kommunismus,Kommunismus,words in -ISMUS are always MASCULINE
+24,der,die,das,der Motor,Motor,words in -OR are always MASCULINE
+25,der,die,das,der Honig,Honig,words in -IG are always MASCULINE
+26,der,die,das,der Teppich,Teppich,words in -ICH are always MASCULINE
+27,der,die,das,der Zwilling,Zwilling,words in -ING are always MASCULINE
+28,der,die,das,der Kapitalist,Kapitalist,words in -IST are always MASCULINE
+29,der,die,das,der Informatiker,Informatiker,words in -IKER are always MASCULINE
+30,der,die,das,der Diamant,Diamant,words in -ANT are always MASCULINE
+31,der,die,das,der Friseur,Friseur,words in -EUR are always MASCULINE
+32,der,die,das,der Koffer,Koffer,words in -ER are always MASCULINE
+33,der,die,das,die Freiheit,Freiheit,heit
+34,der,die,das,die Schnelligkeit,Schnelligkeit,keit
+35,der,die,das,die Universität,Universität,tät
+36,der,die,das,die Zeitung,Zeitung,ung
+37,der,die,das,die Freundschaft,Freundschaft,schaft 
+38,der,die,das,die Drogerie,Drogerie,ie
+39,der,die,das,die Grammatik, Grammatik,ik 
+40,der,die,das,die Kultur,Kultur,ur
+41,der,die,das,das Wrack,Wrack,
+42,der,die,das,das Benehmen,Benehmen,Word ends in EN and NEUTER
+43,der,die,das,das Maß,Maß,
+44,der,die,das,das Mehl,Mehl,
+45,der,die,das,das Hirn,Hirn,
+46,der,die,das,das Fach,Fach,
+47,der,die,das,das Dach,Dach,
+48,der,die,das,das Gebüsch,Gebüsch,
+49,der,die,das,das Gesetz,Gesetz,
+50,der,die,das,das Verfahren,Verfahren,
+51,der,die,das,das Geschenk,Geschenk,
+52,der,die,das,das Grab,Grab,
+53,der,die,das,das Öl,Öl,
+54,der,die,das,das Lokal,Lokal,
+55,der,die,das,das Urteil,Urteil,
+56,der,die,das,das Gewehr,Gewehr,
+57,der,die,das,das Gleis,Gleis,
+58,der,die,das,das Ziel,Ziel,
+59,der,die,das,das Viertel,Viertel,
+60,der,die,das,das Geschick,Geschick,
+61,der,die,das,das Kinn,Kinn,
+62,der,die,das,das Eis,Eis,
+63,der,die,das,das Gelenk,Gelenk,
+64,der,die,das,das Loch,Loch,
+65,der,die,das,das Rad,Rad,
+66,der,die,das,das Versteck,Versteck,
+67,der,die,das,das Siegel,Siegel,
+68,der,die,das,das Feld,Feld,
+69,der,die,das,das Rätsel,Rätsel,
+70,der,die,das,das Schicksal,Schicksal,
+71,der,die,das,das Gegenteil,Gegenteil,
+72,der,die,das,das Getränk,Getränk,
+73,der,die,das,das Beil,Beil,
+74,der,die,das,das Holz,Holz,
+75,der,die,das,das Stück,Stück,
+76,der,die,das,das Gefühl,Gefühl,
+77,der,die,das,das Haus,Haus,
+78,der,die,das,das Geld,Geld,
+79,der,die,das,das Bild,Bild,
+80,der,die,das,das Schild,Schild,
+81,der,die,das,das Land,Land,
+82,der,die,das,das Spiel,Spiel,
+83,der,die,das,das Werk,Werk,
+84,der,die,das,das Mittel,Mittel,
+85,der,die,das,das Tuch,Tuch,
+86,der,die,das,das Glied,Glied,
+87,der,die,das,das Leid,Leid,
+88,der,die,das,das Jahr,Jahr,
+89,der,die,das,das Reich ,Reich ,
+90,der,die,das,das Zeug,Zeug,
+91,der,die,das,das Mal,Mal,
+92,der,die,das,das Buch,Buch,
+93,der,die,das,das Handy,Handy,
+94,der,die,das,das Telefon,Telefon,
+95,der,die,das,das Haar,Haar,
+96,der,die,das,das Paar,Paar,
+97,der,die,das,das Laub,Laub,
+98,der,die,das,das Ohr,Ohr,
+99,der,die,das,das Ding,Ding,
+100,der,die,das,das Wohl,Wohl,
+101,der,die,das,das Pech,Pech,
+102,der,die,das,das Hemd,Hemd,
+103,der,die,das,das Kreuz,Kreuz,
+104,der,die,das,das Protokoll,Protokoll,
+105,der,die,das,das Geräusch,Geräusch,
+106,der,die,das,das Gespräch,Gespräch,
+107,der,die,das,das Glas,Glas,
+108,der,die,das,das Gepäck,Gepäck,
+109,der,die,das,das Detail,Detail,
+110,der,die,das,das Glück,Glück,
+111,der,die,das,das Fleisch,Fleisch,
+112,der,die,das,das Indiz,Indiz,
+113,der,die,das,das Bad,Bad,
+114,der,die,das,das Kleid,Kleid,
+115,der,die,das,das Lied,Lied,
+116,der,die,das,das Gewühl,Gewühl,
+117,der,die,das,das Hotel,Hotel,
+118,der,die,das,das Herz,Herz,
+119,der,die,das,das Netz,Netz,
+120,der,die,das,das Seil,Seil,
+121,der,die,das,das Salz,Salz,
+122,der,die,das,das Ei,Ei,
+123,der,die,das,das Formular ,Formular ,
+124,der,die,das,das Lager ,Lager ,
+125,der,die,das,das Vokabular ,Vokabular ,
+126,der,die,das,das Sofa,Sofa,
+127,der,die,das,das Programm,Programm,
+128,der,die,das,das Chaos ,Chaos ,
+129,der,die,das,das Gebirge,Gebirge,Word ends in E and NEUTER
+130,der,die,das,das Café,Café,Word ends in E and NEUTER
+131,der,die,das,das Portmonee,Portmonee,Word ends in E and NEUTER
+132,der,die,das,das Puzzle,Puzzle,Word ends in E and NEUTER
+133,der,die,das,das Ende,Ende,Word ends in E and NEUTER
+134,der,die,das,das Böse,Böse,Word ends in E and NEUTER
+135,der,die,das,das Auge,Auge,Word ends in E and NEUTER
+136,der,die,das,das Äußere,Äußere,Word ends in E and NEUTER
+137,der,die,das,das Brot,Brot,Word ends in T and NEUTER
+138,der,die,das,das Rezept,Rezept,Word ends in T and NEUTER
+139,der,die,das,das Internet,Internet,Word ends in T and NEUTER
+140,der,die,das,das Produkt,Produkt,Word ends in T and NEUTER
+141,der,die,das,das Licht,Licht,Word ends in T and NEUTER
+142,der,die,das,das Obst,Obst,Word ends in T and NEUTER
+143,der,die,das,das Ticket,Ticket,Word ends in T and NEUTER
+144,der,die,das,das Nest,Nest,Word ends in T and NEUTER
+145,der,die,das,das Kraut,Kraut,Word ends in T and NEUTER
+146,der,die,das,das Bett,Bett,Word ends in T and NEUTER
+147,der,die,das,das Gift,Gift,Word ends in T and NEUTER
+148,der,die,das,das Wort,Wort,Word ends in T and NEUTER
+149,der,die,das,das Gewicht,Gewicht,Word ends in T and NEUTER
+150,der,die,das,das Gebot,Gebot,Word ends in T and NEUTER
+151,der,die,das,das Gehalt,Gehalt,Word ends in T and NEUTER
+152,der,die,das,das Gedicht,Gedicht,Word ends in T and NEUTER
+153,der,die,das,das Delikt,Delikt,Word ends in T and NEUTER
+154,der,die,das,das Gebiet,Gebiet,Word ends in T and NEUTER
+155,der,die,das,das Jahrhundert,Jahrhundert,Word ends in T and NEUTER
+156,der,die,das,das Gerücht,Gerücht,Word ends in T and NEUTER
+157,der,die,das,das Gespenst,Gespenst,Word ends in T and NEUTER
+158,der,die,das,das Geschlecht,Geschlecht,Word ends in T and NEUTER
+159,der,die,das,das Gebet,Gebet,Word ends in T and NEUTER
+160,der,die,das,das Blut,Blut,Word ends in T and NEUTER
+161,der,die,das,das Gesicht,Gesicht,Word ends in T and NEUTER
+162,der,die,das,das Gericht,Gericht,Word ends in T and NEUTER
+163,der,die,das,das Heft,Heft,Word ends in T and NEUTER
+164,der,die,das,das Zelt,Zelt,Word ends in T and NEUTER
+165,der,die,das,das Geschäft,Geschäft,Word ends in T and NEUTER
+166,der,die,das,das Blatt,Blatt,Word ends in T and NEUTER
+167,der,die,das,das Monster,Monster,Word ends in ER and NEUTER
+168,der,die,das,das Fieber,Fieber,Word ends in ER and NEUTER
+169,der,die,das,das Theater,Theater,Word ends in ER and NEUTER
+170,der,die,das,das Wasser,Wasser,Word ends in ER and NEUTER
+171,der,die,das,das Meer,Meer,Word ends in ER and NEUTER
+172,der,die,das,das Leder,Leder,Word ends in ER and NEUTER
+173,der,die,das,das Opfer ,Opfer ,Word ends in ER and NEUTER
+174,der,die,das,das Wunder,Wunder,Word ends in ER and NEUTER
+175,der,die,das,das Wetter,Wetter,Word ends in ER and NEUTER
+176,der,die,das,das Feuer,Feuer,Word ends in ER and NEUTER
+177,der,die,das,das Zimmer,Zimmer,Word ends in ER and NEUTER
+178,der,die,das,das Papier,Papier,Word ends in ER and NEUTER
+179,der,die,das,das Muster,Muster,Word ends in ER and NEUTER
+180,der,die,das,das Fenster,Fenster,Word ends in ER and NEUTER
+181,der,die,das,das Gewitter,Gewitter,Word ends in ER and NEUTER
+182,der,die,das,das Ufer,Ufer,Word ends in ER and NEUTER
+183,der,die,das,das Steuer,Steuer,Word ends in ER and NEUTER
+184,der,die,das,das Messer,Messer,Word ends in ER and NEUTER
+185,der,die,das,das Abenteuer ,Abenteuer ,Word ends in ER and NEUTER
+186,der,die,das,das Becken,Becken,Word ends in EN and NEUTER
+187,der,die,das,das Eisen,Eisen,Word ends in EN and NEUTER
+188,der,die,das,das Zeichen,Zeichen,Word ends in EN and NEUTER
+189,der,die,das,das Unternehmen,Unternehmen,Word ends in EN and NEUTER
+190,der,die,das,das Gutachten,Gutachten,Word ends in EN and NEUTER
