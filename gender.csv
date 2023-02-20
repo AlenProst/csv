@@ -11,9 +11,9 @@ id,article_m,article_f,article_n,correct_form,noun_no_article,remark
 11,der,die,das,das Ritz,Ritz,"Nouns that name hotels,cafés"
 12,der,die,das,das Blau,Blau,Nouns that name colors
 13,der,die,das,das A,A,Nouns that name letters
-14,der,die,das,das Montag,Montag,Days of the weeks are always MASCULINE
-15,der,die,das,das Juli,Juli,MONTHS are always MASCULINE
-16,der,die,das,das Sommer,Sommer,SEASONS are always MASCULINE
+14,der,die,das,der Montag,Montag,Days of the weeks are always MASCULINE
+15,der,die,das,der Juli,Juli,MONTHS are always MASCULINE
+16,der,die,das,der Sommer,Sommer,SEASONS are always MASCULINE
 17,der,die,das,der Euro,Euro,CURRENCY is always MASCULINE
 18,der,die,das,der Wein,Wein,DRIKNS are always MASCULINE
 19,der,die,das,der Mercedes,Mercedes,BRANDS OF CARS are always MASCULINE
